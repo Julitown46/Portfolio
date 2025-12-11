@@ -10,7 +10,7 @@ export function Projects() {
     {
       title: "Hi-Tech Gym",
       description: "TFG dedicado a un gimnasio con reservas de pista de pádel desarrollada con Python y Angular",
-      image: "/images/hitechgym.png",
+      image: "images/hitechgym.png",
       tags: ["Django", "Python", "SQLite", "Angular", "CSS"],
       github: "https://github.com/Julitown46/Hi-Tech-Gym",
       demo: "https://github.com/Julitown46/Hi-Tech-Gym",
@@ -18,7 +18,7 @@ export function Projects() {
     {
       title: "Wumind Website",
       description: "Landing para mi agencia de automatizaciones con Inteligencia Artificial",
-      image: "/images/wumindwebsite.png",
+      image: "images/wumindwebsite.png",
       tags: ["React", "V0", "Next.js", "Tailwind"],
       github: "https://github.com/Julitown46/wumind-website",
       demo: "https://wumindagency.com/",
